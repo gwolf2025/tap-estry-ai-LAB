@@ -1,0 +1,134 @@
+# MASTER BUILD PROMPT
+
+Build a production-quality web application.
+
+Tech Stack
+
+Frontend
+
+- Next.js
+- React
+- Tailwind
+- TypeScript
+
+Backend
+
+- Node
+- PostgreSQL
+- Prisma
+
+AI
+
+- OpenRouter
+- Claude
+- GPT
+- Gemini
+
+Document Processing
+
+- EPUB.js
+- PDF.js
+
+Search
+
+- pgvector
+
+Authentication
+
+- Clerk
+
+Storage
+
+- Supabase
+
+---
+
+Primary Goal
+
+Create a calm reading environment.
+
+Do NOT make another chatbot.
+
+The reading experience always comes first.
+
+---
+
+Core Features
+
+Library
+
+Reader
+
+Annotation
+
+AI Sidebar
+
+Knowledge Graph
+
+Research Cards
+
+Idea Cards
+
+Semantic Search
+
+Paper Lighting Modes
+
+Liquid PDF
+
+Export
+
+---
+
+Design Language
+
+Inspired by:
+
+Apple Books
+
+Notion
+
+Obsidian
+
+Calm
+
+Minimal interfaces
+
+No clutter.
+
+Lots of whitespace.
+
+Beautiful typography.
+
+Animations should be subtle.
+
+---
+
+AI Rules
+
+AI never interrupts.
+
+AI waits to be invited.
+
+Suggestions should feel like a thoughtful research assistant.
+
+Never produce hallucinated citations.
+
+Always cite sources.
+
+---
+
+Code Quality
+
+Modular
+
+Strong typing
+
+Testing
+
+Documentation
+
+Reusable components
+
+Mobile-first
+
+PWA compatible
