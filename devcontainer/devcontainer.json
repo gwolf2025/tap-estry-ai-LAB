@@ -1,0 +1,48 @@
+{
+  "name": "Goose Codespace Workspace",
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+
+  "postCreateCommand": "bash .devcontainer/setup-goose.sh",
+
+  "forwardPorts": [3000, 5173, 8000, 8501, 8888],
+
+  "portsAttributes": {
+    "3000": {
+      "label": "Next.js / React",
+      "onAutoForward": "openPreview"
+    },
+    "5173": {
+      "label": "Vite",
+      "onAutoForward": "openPreview"
+    },
+    "8000": {
+      "label": "FastAPI / Flask",
+      "onAutoForward": "notify"
+    },
+    "8501": {
+      "label": "Streamlit",
+      "onAutoForward": "openPreview"
+    },
+    "8888": {
+      "label": "Jupyter",
+      "onAutoForward": "notify"
+    }
+  },
+
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "dbaeumer.vscode-eslint",
+        "esbenp.prettier-vscode",
+        "ms-python.python",
+        "ms-python.vscode-pylance",
+        "ms-toolsai.jupyter",
+        "bradlc.vscode-tailwindcss"
+      ],
+      "settings": {
+        "editor.formatOnSave": true,
+        "terminal.integrated.defaultProfile.linux": "bash"
+      }
+    }
+  }
+}
