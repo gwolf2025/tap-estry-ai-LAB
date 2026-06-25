@@ -1,0 +1,131 @@
+# Product Specification
+
+## Problem
+
+Reading digitally is fragmented.
+
+Books are here.
+
+Papers are there.
+
+Notes are elsewhere.
+
+AI conversations disappear.
+
+Knowledge becomes siloed.
+
+---
+
+## Solution
+
+Create one unified environment where users can:
+
+Read.
+
+Think.
+
+Research.
+
+Create.
+
+---
+
+## Pillars
+
+### 1. Reading
+
+- EPUB
+- PDF
+- Markdown
+- HTML
+- Browser overlay
+
+---
+
+### 2. Thinking
+
+Highlights become:
+
+- notes
+- idea cards
+- research threads
+- AI conversations
+
+---
+
+### 3. Research
+
+Support:
+
+- Zotero
+- OpenAlex
+- Crossref
+- Semantic Scholar
+- Institutional libraries
+
+---
+
+### 4. AI
+
+AI should:
+
+Explain
+
+Question
+
+Challenge
+
+Connect
+
+Expand
+
+Never interrupt.
+
+---
+
+### 5. Knowledge
+
+Every interaction contributes to a personal knowledge graph.
+
+---
+
+## Design Principles
+
+Calm.
+
+Elegant.
+
+Minimal.
+
+Fast.
+
+Readable.
+
+Paper first.
+
+AI second.
+
+---
+
+## MVP
+
+- Reader
+- Annotation
+- AI Chat
+- Research Cards
+- Paper Modes
+- Local Library
+
+---
+
+## Future
+
+Browser extension
+
+Institutional authentication
+
+Research agents
+
+Team workspaces
+
+Lifelong knowledge archive
