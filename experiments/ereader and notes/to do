@@ -1,0 +1,60 @@
+# TODO
+
+## MVP
+
+- [ ] Landing page
+- [ ] Authentication
+- [ ] User library
+- [ ] EPUB reader
+- [ ] PDF reader
+- [ ] Liquid PDF
+- [ ] Annotation
+- [ ] Highlighting
+- [ ] Notes
+- [ ] Search
+
+---
+
+## AI
+
+- [ ] Chat with passage
+- [ ] Expand note
+- [ ] Research cards
+- [ ] Related concepts
+- [ ] Knowledge graph
+
+---
+
+## Reader
+
+- [ ] Paper mode
+- [ ] Warm mode
+- [ ] Night mode
+- [ ] Focus mode
+- [ ] Typography controls
+
+---
+
+## Browser Extension
+
+- [ ] Overlay
+- [ ] Highlight capture
+- [ ] Institutional support
+
+---
+
+## Research
+
+- [ ] Zotero sync
+- [ ] OpenAlex
+- [ ] Crossref
+- [ ] Semantic Scholar
+
+---
+
+## Future
+
+- [ ] Team libraries
+- [ ] Shared annotations
+- [ ] Research agents
+- [ ] Personal AI memory
